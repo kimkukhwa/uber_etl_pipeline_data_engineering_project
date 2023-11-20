@@ -28,3 +28,6 @@ The TLC Trip Record Data for yellow and green taxis includes details such as pic
 ![modeling](https://github.com/kimkukhwa/uber_etl_pipeline_data_engineering_project/assets/64974464/680d2319-3300-4ee2-880c-9aaec715dca0)
 
 
+## Mage Pipeline
+-----------------
+<img width="1543" alt="Screenshot 2023-11-20 at 6 00 08 PM" src="https://github.com/kimkukhwa/uber_etl_pipeline_data_engineering_project/assets/64974464/66f8d289-83a5-488b-95f5-3bbc14dc025a">
